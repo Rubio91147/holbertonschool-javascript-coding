@@ -1,4 +1,1 @@
-
-Project badge
-0%
-JavaScript - Web scraping
+first readme
